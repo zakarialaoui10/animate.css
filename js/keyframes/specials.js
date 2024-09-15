@@ -40,7 +40,6 @@ const jackInTheBox = (duration = 1000, iterations = 1, easing = 'ease') => {
     ],
     config: {
       duration,
-      easing,
       iterations,
     },
   };
