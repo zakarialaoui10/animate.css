@@ -1,0 +1,18 @@
+module.exports = {
+  ...require('./keyframes/attention-seekers.js'),
+  ...require('./keyframes/back-in.js'),
+  ...require('./keyframes/back-out.js'),
+  ...require('./keyframes/bounce-in.js'),
+  ...require('./keyframes/bounce-out.js'),
+  ...require('./keyframes/fade-in.js'),
+  ...require('./keyframes/fade-out.js'),
+  ...require('./keyframes/flippers.js'),
+  ...require('./keyframes/lightspeed.js'),
+  ...require('./keyframes/rotate-in.js'),
+  ...require('./keyframes/rotate-out.js'),
+  ...require('./keyframes/slide-in.js'),
+  ...require('./keyframes/slide-out.js'),
+  ...require('./keyframes/specials.js'),
+  ...require('./keyframes/zoom-in.js'),
+  ...require('./keyframes/zoom-out.js'),
+};
