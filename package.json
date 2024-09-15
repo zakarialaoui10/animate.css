@@ -73,7 +73,8 @@
   ],
   "exports": {
     "./js": {
-      "import": "./js/index.js"
+      "import": "./animate-css.mjs",
+      "require": "./animate-css.cjs"
     }
   }
 }
